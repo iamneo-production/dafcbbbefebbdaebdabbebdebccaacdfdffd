@@ -1,0 +1,17 @@
+h2{
+    font colour:black;
+}
+body{
+    background-color: lightblue;
+}
+#image1{
+    width:50%;
+    height:50%;
+}
+#image2{
+    width:128px;
+    height:128px;
+}
+p{
+    font color:black;
+}
